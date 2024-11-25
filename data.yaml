@@ -1,0 +1,7 @@
+path: "C:/Coding Porfolio For Study/Yolo learning/data"
+train: "images/train"
+val: "images/train"
+
+names:
+  0: 'traffic_cone'
+  1: 'car'
